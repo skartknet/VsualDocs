@@ -10,6 +10,8 @@ module.exports = {
    */
   description: description,
 
+
+  theme: 'api',
   /**
    * Extra tags to be injected to the page HTML `<head>`
    *
